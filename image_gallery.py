@@ -1,4 +1,5 @@
 import os
+import webbrowser
 from tkinter import Tk, Frame, Label
 from PIL import Image, ImageTk
 
@@ -31,10 +32,17 @@ class ImageGallery:
                 label.image = photo  # Keep a reference to avoid garbage collection
                 label.grid(row=row, column=col)
                 
+                # Bind the click event to the open_image function
+                label.bind('<Button-1>', lambda e, img_path=img_path: self.open_image(img_path))
+                
                 col += 1
                 if col >= images_per_row:
                     col = 0
                     row += 1
+
+    def open_image(self, img_path):
+        # Open the image file with the default application
+        webbrowser.open(img_path)
 
 if __name__ == "__main__":
     import sys
