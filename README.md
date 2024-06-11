@@ -1,5 +1,4 @@
-
-# Image Gallery
+![alt text](assets/header-image.png)
 
 This Python script creates a simple image gallery using Tkinter, displaying thumbnails of images from a specified folder.
 
