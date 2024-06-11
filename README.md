@@ -41,4 +41,5 @@ This Python script creates a simple image gallery using Tkinter, displaying thum
 ![alt text](assets/example.gif)
 
 ## Thanks
+
 [Header image](https://leviarista.github.io/github-profile-header-generator/)
