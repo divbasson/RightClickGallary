@@ -21,6 +21,8 @@ This script is a lifesaver for those of us whose folders resemble a chaotic jumb
 - The script creates a window displaying thumbnails of images   found in the specified folder.
 - Images are resized to fit a square of 100x100 pixels each.
 - Supported image formats include PNG, JPG, JPEG, GIF, and BMP.
+- Image count.
+- Click on image to open.
 
 ## Usage
 
