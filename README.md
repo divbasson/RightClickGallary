@@ -39,10 +39,4 @@ This Python script creates a simple image gallery using Tkinter, displaying thum
 
 ## Example
 
-Right click on your folder.
-
-![alt text](assets/images/1.jpg)
-
-Select "Open Image Gallery"
-
-![alt text](assets/images/2.jpg)
+![alt text](assets/example.gif)
