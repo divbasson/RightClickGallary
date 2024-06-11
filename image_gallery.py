@@ -38,7 +38,7 @@ class ImageGallery:
 
 if __name__ == "__main__":
     import sys
-    folder_path = sys.argv[1] if len(sys.argv) > 1 else '.'
+    folder_arg = sys.argv[1] if len(sys.argv) > 1 else '.'
     root = Tk()
-    gallery = ImageGallery(root, folder_path)
+    gallery = ImageGallery(root, folder_arg)
     root.mainloop()

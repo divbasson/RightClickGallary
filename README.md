@@ -3,6 +3,10 @@
 
 This Python script creates a simple image gallery using Tkinter, displaying thumbnails of images from a specified folder.
 
+## Status
+[![Codeac](https://static.codeac.io/badges/2-813804613.svg "Codeac")](https://app.codeac.io/github/divbasson/RightClickGallery)
+
+
 # Why would you want to use this?
 
 This script is a lifesaver for those of us whose folders resemble a chaotic jumble of mislaid files and unsorted downloads. If you're like me and dread the idea of meticulously organizing every folder or constantly switching your Windows folder view from details to thumbnails just to find a picture, then this script is your new best friend. With a simple right-click on any folder, you can summon forth an instant gallery of images, sparing you the agony of sifting through the digital equivalent of a cluttered attic. So go ahead, embrace the chaos, and let the "Open Image Gallery" option rescue you from folder mayhem with a touch of tech-savvy whimsy.
