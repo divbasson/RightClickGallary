@@ -1,5 +1,6 @@
 # requirements.txt
 
+pyperclip==1.8.2
 frame==0.3.1
 image==1.5.33
 label==0.1.1
